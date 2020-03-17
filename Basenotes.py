@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 from selenium import webdriver
 import json
 from datetime import datetime
