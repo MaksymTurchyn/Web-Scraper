@@ -1,4 +1,3 @@
-
 from selenium import webdriver
 import json
 from datetime import datetime
@@ -493,31 +492,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
->>>>>>> v.1.1.
