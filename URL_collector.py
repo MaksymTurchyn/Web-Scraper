@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 from selenium import webdriver
 import json
 
@@ -112,19 +111,3 @@ def find_all_parfum(chrome, houses):
 
 if __name__ == '__main__':
     main()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
->>>>>>> v.1.1.
